@@ -1,0 +1,11 @@
+C:\ITS-BACKEND-TASK-3\LoanSystem.Domain\bin\Debug\net8.0\LoanSystem.Domain.deps.json
+C:\ITS-BACKEND-TASK-3\LoanSystem.Domain\bin\Debug\net8.0\LoanSystem.Domain.dll
+C:\ITS-BACKEND-TASK-3\LoanSystem.Domain\bin\Debug\net8.0\LoanSystem.Domain.pdb
+C:\ITS-BACKEND-TASK-3\LoanSystem.Domain\obj\Debug\net8.0\LoanSystem.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\ITS-BACKEND-TASK-3\LoanSystem.Domain\obj\Debug\net8.0\LoanSystem.Domain.AssemblyInfoInputs.cache
+C:\ITS-BACKEND-TASK-3\LoanSystem.Domain\obj\Debug\net8.0\LoanSystem.Domain.AssemblyInfo.cs
+C:\ITS-BACKEND-TASK-3\LoanSystem.Domain\obj\Debug\net8.0\LoanSystem.Domain.csproj.CoreCompileInputs.cache
+C:\ITS-BACKEND-TASK-3\LoanSystem.Domain\obj\Debug\net8.0\LoanSystem.Domain.dll
+C:\ITS-BACKEND-TASK-3\LoanSystem.Domain\obj\Debug\net8.0\refint\LoanSystem.Domain.dll
+C:\ITS-BACKEND-TASK-3\LoanSystem.Domain\obj\Debug\net8.0\LoanSystem.Domain.pdb
+C:\ITS-BACKEND-TASK-3\LoanSystem.Domain\obj\Debug\net8.0\ref\LoanSystem.Domain.dll
