@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xnQl74kCKds=",
+  "dgSpecHash": "Nh8zhq0AwZY=",
   "success": true,
-  "projectFilePath": "C:\\ITS-BACKEND-TASK-3\\LoanSystem.Infrastructure\\LoanSystem.Infrastructure.csproj",
+  "projectFilePath": "C:\\ITS-LOAN-SYSTEM\\LoanSystem.Infrastructure\\LoanSystem.Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\humam\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\humam\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\ITS-BACKEND-TASK-3\\LoanSystem.Application\\LoanSystem.Application.csproj": {}
+    "C:\\ITS-LOAN-SYSTEM\\LoanSystem.Application\\LoanSystem.Application.csproj": {}
   },
   "projects": {
-    "C:\\ITS-BACKEND-TASK-3\\LoanSystem.Application\\LoanSystem.Application.csproj": {
+    "C:\\ITS-LOAN-SYSTEM\\LoanSystem.Application\\LoanSystem.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\ITS-BACKEND-TASK-3\\LoanSystem.Application\\LoanSystem.Application.csproj",
+        "projectUniqueName": "C:\\ITS-LOAN-SYSTEM\\LoanSystem.Application\\LoanSystem.Application.csproj",
         "projectName": "LoanSystem.Application",
-        "projectPath": "C:\\ITS-BACKEND-TASK-3\\LoanSystem.Application\\LoanSystem.Application.csproj",
+        "projectPath": "C:\\ITS-LOAN-SYSTEM\\LoanSystem.Application\\LoanSystem.Application.csproj",
         "packagesPath": "C:\\Users\\humam\\.nuget\\packages\\",
-        "outputPath": "C:\\ITS-BACKEND-TASK-3\\LoanSystem.Application\\obj\\",
+        "outputPath": "C:\\ITS-LOAN-SYSTEM\\LoanSystem.Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -32,11 +32,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\ITS-BACKEND-TASK-3\\LoanSystem.Domain\\LoanSystem.Domain.csproj": {
-                "projectPath": "C:\\ITS-BACKEND-TASK-3\\LoanSystem.Domain\\LoanSystem.Domain.csproj"
+              "C:\\ITS-LOAN-SYSTEM\\LoanSystem.Domain\\LoanSystem.Domain.csproj": {
+                "projectPath": "C:\\ITS-LOAN-SYSTEM\\LoanSystem.Domain\\LoanSystem.Domain.csproj"
               },
-              "C:\\ITS-BACKEND-TASK-3\\LoanSystem.Infrastructure\\LoanSystem.Infrastructure.csproj": {
-                "projectPath": "C:\\ITS-BACKEND-TASK-3\\LoanSystem.Infrastructure\\LoanSystem.Infrastructure.csproj"
+              "C:\\ITS-LOAN-SYSTEM\\LoanSystem.Infrastructure\\LoanSystem.Infrastructure.csproj": {
+                "projectPath": "C:\\ITS-LOAN-SYSTEM\\LoanSystem.Infrastructure\\LoanSystem.Infrastructure.csproj"
               }
             }
           }
@@ -82,14 +82,14 @@
         }
       }
     },
-    "C:\\ITS-BACKEND-TASK-3\\LoanSystem.Domain\\LoanSystem.Domain.csproj": {
+    "C:\\ITS-LOAN-SYSTEM\\LoanSystem.Domain\\LoanSystem.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\ITS-BACKEND-TASK-3\\LoanSystem.Domain\\LoanSystem.Domain.csproj",
+        "projectUniqueName": "C:\\ITS-LOAN-SYSTEM\\LoanSystem.Domain\\LoanSystem.Domain.csproj",
         "projectName": "LoanSystem.Domain",
-        "projectPath": "C:\\ITS-BACKEND-TASK-3\\LoanSystem.Domain\\LoanSystem.Domain.csproj",
+        "projectPath": "C:\\ITS-LOAN-SYSTEM\\LoanSystem.Domain\\LoanSystem.Domain.csproj",
         "packagesPath": "C:\\Users\\humam\\.nuget\\packages\\",
-        "outputPath": "C:\\ITS-BACKEND-TASK-3\\LoanSystem.Domain\\obj\\",
+        "outputPath": "C:\\ITS-LOAN-SYSTEM\\LoanSystem.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -147,14 +147,14 @@
         }
       }
     },
-    "C:\\ITS-BACKEND-TASK-3\\LoanSystem.Infrastructure\\LoanSystem.Infrastructure.csproj": {
+    "C:\\ITS-LOAN-SYSTEM\\LoanSystem.Infrastructure\\LoanSystem.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\ITS-BACKEND-TASK-3\\LoanSystem.Infrastructure\\LoanSystem.Infrastructure.csproj",
+        "projectUniqueName": "C:\\ITS-LOAN-SYSTEM\\LoanSystem.Infrastructure\\LoanSystem.Infrastructure.csproj",
         "projectName": "LoanSystem.Infrastructure",
-        "projectPath": "C:\\ITS-BACKEND-TASK-3\\LoanSystem.Infrastructure\\LoanSystem.Infrastructure.csproj",
+        "projectPath": "C:\\ITS-LOAN-SYSTEM\\LoanSystem.Infrastructure\\LoanSystem.Infrastructure.csproj",
         "packagesPath": "C:\\Users\\humam\\.nuget\\packages\\",
-        "outputPath": "C:\\ITS-BACKEND-TASK-3\\LoanSystem.Infrastructure\\obj\\",
+        "outputPath": "C:\\ITS-LOAN-SYSTEM\\LoanSystem.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -175,8 +175,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\ITS-BACKEND-TASK-3\\LoanSystem.Domain\\LoanSystem.Domain.csproj": {
-                "projectPath": "C:\\ITS-BACKEND-TASK-3\\LoanSystem.Domain\\LoanSystem.Domain.csproj"
+              "C:\\ITS-LOAN-SYSTEM\\LoanSystem.Domain\\LoanSystem.Domain.csproj": {
+                "projectPath": "C:\\ITS-LOAN-SYSTEM\\LoanSystem.Domain\\LoanSystem.Domain.csproj"
               }
             }
           }

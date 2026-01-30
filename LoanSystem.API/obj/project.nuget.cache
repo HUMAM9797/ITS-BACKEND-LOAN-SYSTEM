@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "tVXZAOpPHg4=",
+  "dgSpecHash": "KfPD+euQvF0=",
   "success": true,
-  "projectFilePath": "C:\\ITS-BACKEND-TASK-3\\LoanSystem.API\\LoanSystem.API.csproj",
+  "projectFilePath": "C:\\ITS-LOAN-SYSTEM\\LoanSystem.API\\LoanSystem.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\humam\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\humam\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",
@@ -94,9 +94,9 @@
       "code": "NU1603",
       "level": "Warning",
       "message": "LoanSystem.API depends on Swashbuckle.AspNetCore (>= 6.4.6) but Swashbuckle.AspNetCore 6.4.6 was not found. Swashbuckle.AspNetCore 6.5.0 was resolved instead.",
-      "projectPath": "C:\\ITS-BACKEND-TASK-3\\LoanSystem.API\\LoanSystem.API.csproj",
+      "projectPath": "C:\\ITS-LOAN-SYSTEM\\LoanSystem.API\\LoanSystem.API.csproj",
       "warningLevel": 1,
-      "filePath": "C:\\ITS-BACKEND-TASK-3\\LoanSystem.API\\LoanSystem.API.csproj",
+      "filePath": "C:\\ITS-LOAN-SYSTEM\\LoanSystem.API\\LoanSystem.API.csproj",
       "libraryId": "Swashbuckle.AspNetCore",
       "targetGraphs": [
         "net8.0"

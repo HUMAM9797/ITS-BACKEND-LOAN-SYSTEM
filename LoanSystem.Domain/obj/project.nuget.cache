@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "iyAKhxQA0Wg=",
+  "dgSpecHash": "wdLlBbgTO7I=",
   "success": true,
-  "projectFilePath": "C:\\ITS-BACKEND-TASK-3\\LoanSystem.Domain\\LoanSystem.Domain.csproj",
+  "projectFilePath": "C:\\ITS-LOAN-SYSTEM\\LoanSystem.Domain\\LoanSystem.Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
